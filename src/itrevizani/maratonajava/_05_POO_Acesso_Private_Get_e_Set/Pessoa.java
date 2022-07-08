@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._5_POO_Acesso_Private_Get_e_Set;
+package itrevizani.maratonajava._05_POO_Acesso_Private_Get_e_Set;
 
 import java.util.Arrays;
 

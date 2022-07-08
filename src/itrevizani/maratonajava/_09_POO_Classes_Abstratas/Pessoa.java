@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._9_POO_Classes_Abstratas;
+package itrevizani.maratonajava._09_POO_Classes_Abstratas;
 
 public abstract class Pessoa {
     public abstract void imprime();

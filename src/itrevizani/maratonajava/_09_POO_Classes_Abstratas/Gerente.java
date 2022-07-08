@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._9_POO_Classes_Abstratas;
+package itrevizani.maratonajava._09_POO_Classes_Abstratas;
 
 public class Gerente extends Funcionario{
     public Gerente(String nome, double salario) {

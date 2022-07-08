@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._3_POO_Atributos;
+package itrevizani.maratonajava._03_POO_Atributos;
 
 public class Pessoa { // Classe
     public String nome; // Atributos

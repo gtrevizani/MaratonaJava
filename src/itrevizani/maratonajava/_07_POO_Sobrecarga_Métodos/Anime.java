@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._7_POO_Sobrecarga_Métodos;
+package itrevizani.maratonajava._07_POO_Sobrecarga_Métodos;
 
 public class Anime {
     private String nome;

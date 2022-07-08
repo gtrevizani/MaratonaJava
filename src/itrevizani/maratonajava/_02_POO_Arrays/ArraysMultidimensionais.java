@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._2_POO_Arrays;
+package itrevizani.maratonajava._02_POO_Arrays;
 
 import java.util.Scanner;
 

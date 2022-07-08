@@ -1,4 +1,4 @@
-package itrevizani.maratonajava._8_POO_Enumeracao;
+package itrevizani.maratonajava._08_POO_Enumeracao;
 
 public enum TipoCliente {
     PESSOA_FISICA(1, "Pessoa Física"),
