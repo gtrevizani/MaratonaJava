@@ -5,6 +5,7 @@ import itrevizani.maratonajava._12_POO_Exception.dominio.LoginInvalidoException;
 import itrevizani.maratonajava._12_POO_Exception.dominio.Pessoa;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class SobrescritaComExceptionTest01 {
     public static void main(String[] args) {
@@ -14,6 +15,12 @@ public class SobrescritaComExceptionTest01 {
         try {
             funcionario.salvar();
         } catch (LoginInvalidoException | FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+        try{
+            pessoa.salvar();
+        } catch (LoginInvalidoException | IOException e){
             e.printStackTrace();
         }
     }
