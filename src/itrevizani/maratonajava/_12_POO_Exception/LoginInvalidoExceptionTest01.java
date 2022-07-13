@@ -17,6 +17,7 @@ public class LoginInvalidoExceptionTest01 {
         Scanner scanner = new Scanner(System.in);
         String usernameDB = "Goku";
         String senhaDB = "ssj";
+
         System.out.print("Usuário: " );
         String user = scanner.nextLine();
         System.out.print("Senha: " );
