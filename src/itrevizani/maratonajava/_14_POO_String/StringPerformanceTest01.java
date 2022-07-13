@@ -1,6 +1,6 @@
 package itrevizani.maratonajava._14_POO_String;
 
-public class StringPerformanceTest {
+public class StringPerformanceTest01 {
     public static void main(String[] args) {
         long inicio = System.currentTimeMillis();
         concatString(100_000);
