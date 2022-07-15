@@ -13,6 +13,9 @@ public class CalendarTest01 {
         System.out.println(Calendar.DAY_OF_MONTH);
         System.out.println(Calendar.DAY_OF_YEAR);
         System.out.println(Calendar.DAY_OF_WEEK_IN_MONTH);
+
+        c.add(Calendar.DAY_OF_MONTH, 2);
+        c.add(Calendar.HOUR, 2);
         Date date = c.getTime();
         System.out.println(date);
     }
